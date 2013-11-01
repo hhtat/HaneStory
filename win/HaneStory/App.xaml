@@ -1,0 +1,17 @@
+﻿<Application x:Class="HaneStory.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:p="clr-namespace:HaneStory.Properties"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ObjectDataProvider x:Key="settings" ObjectType="{x:Type p:Settings}" />
+        <ObjectDataProvider x:Key="resources" ObjectType="{x:Type p:Resources}" />
+
+        <SolidColorBrush x:Key="backgroundBrush"
+            Color="{Binding BackgroundColor,Source={StaticResource settings}}" />
+        <SolidColorBrush x:Key="foregroundBrush"
+            Color="{Binding ForegroundColor,Source={StaticResource settings}}" />
+        <SolidColorBrush x:Key="statusForegroundBrush"
+            Color="{Binding StatusForegroundColor,Source={StaticResource settings}}" />
+    </Application.Resources>
+</Application>

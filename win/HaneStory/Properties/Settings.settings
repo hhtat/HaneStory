@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="HaneStory.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AllowsTransparency" Type="System.String" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="BackgroundColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#EE000000</Value>
+    </Setting>
+    <Setting Name="FontFamily" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Segoe UI</Value>
+    </Setting>
+    <Setting Name="FontSize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">18</Value>
+    </Setting>
+    <Setting Name="FontWeight" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Thin</Value>
+    </Setting>
+    <Setting Name="ForegroundColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#FFFFFFFF</Value>
+    </Setting>
+    <Setting Name="Margins" Type="System.String" Scope="User">
+      <Value Profile="(Default)">48,24,48,12</Value>
+    </Setting>
+    <Setting Name="StatusForegroundColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#FF555555</Value>
+    </Setting>
+    <Setting Name="StatusMargin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0,0,0,12</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
