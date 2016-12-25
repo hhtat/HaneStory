@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?define ProductName = "HaneStory" ?>
-<?define ProductVersion = "1.0.0.0" ?>
+<?define ProductVersion = "1.1.0.0" ?>
 <?define ProductManufacturer = "Hein Htat" ?>
 <?define ProductUpgradeCode = "ff8806f1-e909-4c85-b441-22e3bf4ee962" ?>
 
